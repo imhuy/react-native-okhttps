@@ -15,9 +15,10 @@ This module creates a custom OkHttpClientFactory that disables SSL certificate v
 1. Install the package:
 
 ```bash
-npm install rn-okhttps
+npm install react-native-okhttps
+
 # or
-yarn add rn-okhttps
+yarn add react-native-okhttps
 ```
 
 2. Rebuild and reinstall your app:

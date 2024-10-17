@@ -1,6 +1,6 @@
 {
-  "name": "rn-okhttps",
-  "version": "1.1.0",
+  "name": "react-native-okhttps",
+  "version": "1.0.0",
   "description": "Custom Https client for React Native",
   "main": "index.js",
   "files": [
@@ -19,11 +19,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/imhuy/rn-okhttps.git"
+    "url": "git+https://github.com/imhuy/react-native-okhttps.git"
   },
   "bugs": {
-    "url": "https://github.com/imhuy/rn-okhttps/issues"
+    "url": "https://github.com/imhuy/react-native-okhttps/issues"
   },
-  "homepage": "https://github.com/imhuy/rn-okhttps#readme",
+  "homepage": "https://github.com/imhuy/react-native-okhttps#readme",
   "react-native": "src/index"
 }
