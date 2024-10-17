@@ -1,0 +1,29 @@
+{
+  "name": "rn-okhttps",
+  "version": "1.1.0",
+  "description": "Custom Https client for React Native",
+  "main": "index.js",
+  "files": [
+    "android",
+    "index.js"
+  ],
+  "keywords": [
+    "react-native",
+    "https",
+    "ssl",
+    "sslpinning",
+    "android-https"
+  ],
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhuy/rn-okhttps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/imhuy/rn-okhttps/issues"
+  },
+  "homepage": "https://github.com/imhuy/rn-okhttps#readme",
+  "react-native": "src/index"
+}
